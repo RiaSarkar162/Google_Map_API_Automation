@@ -1,5 +1,4 @@
-# Google_Map_API_Automation
-# API Automation with Rest Assured (Google Dummy API)
+# Google API Automation with Rest Assured
 
 This project focuses on automating RESTful API testing using **Rest Assured** in a **Maven**-based Java project. It uses a dummy Google API to automate **GET**, **POST**, and **PUT** requests. The project also includes a dedicated **Payload class** to manage request bodies in a structured way.
 
